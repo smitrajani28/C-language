@@ -1,0 +1,6 @@
+Smit, 10000
+Vishwa, 10000
+Devansh, 10000
+Rajvi, 10000
+Harshil, 10000
+Khushi, 10000
